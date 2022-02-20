@@ -333,16 +333,3 @@ document.body.addEventListener("keydown", function (event) {
         snake.move();
     }
 })
-
-/*
-$("body").keydown(function (event) {
-
-    let newDirection = directions[event.keyCode];
-    if (newDirection !== undefined) {
-
-       snake.setDirection(newDirection);
-        snake.move();
-    }
-})
-
- */
