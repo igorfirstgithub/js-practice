@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.rectangle {
+  border: 2px solid green;
+  margin: 5px;
+}
+
